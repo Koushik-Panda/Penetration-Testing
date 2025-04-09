@@ -1,0 +1,37 @@
+Description
+
+Conducting and performing VAPT on a bank named Altoro Mutual.
+
+Problem Statement and Motivation:
+
+In this project, you should be able to conduct a vulnerability assessment and penetration testing on a bank application. You would be able to find several vulnerabilities covered in the course
+
+Industry Relevance:
+
+Skills used in the project and their industry relevance can be seen below:
+
+• Kali Linux: It is the most famous hacking distro, which comes with all the pre-installed tools.
+
+• BurpSuite: It is a proxy tool that captures the HTTP(s) traffic between browsers and servers.
+
+• Firefox: It is a web browser used to surf the Internet.
+
+Task (Activities):
+
+In this project, you will be testing the following vulnerabilities:
+
+1. Cross Site Scripting (XSS) Vulnerability
+
+2. SQL Injection
+
+3. Brute Force Attack
+
+4. Access Control Vulnerability
+
+5. HTML Injection
+
+Note:
+
+• You must use the datasets provided
+
+• Template for this project can be downloaded from the Reference Materials section
